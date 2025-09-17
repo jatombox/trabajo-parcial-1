@@ -8,6 +8,7 @@ Calculadora sencilla desarrollada en **Python** utilizando la librería **Tkinte
 
 **Jacobo Morales Londoño**  
 Corporación Universitaria La Sallista
+Version 1.0 / 2025
 
 ---
 
